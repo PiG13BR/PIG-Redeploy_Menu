@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="Redeploy Menu">
+    <Package name="Redeploy Menu">
+		<Container name="Redeploy Menu">
+			<Key ID="STR_REDEPLOY_MENU_TITLE">
+				<Original>Redeploy Menu</Original>
+				<Portuguese>Menu de Redeploy</Portuguese>
+			</Key>
+			<Key ID="STR_REDEPLOY_MENU_SELECT">
+				<Original>Select Position</Original>
+				<Portuguese>Selecionar Posição</Portuguese>
+			</Key>
+			<Key ID="STR_REDEPLOY_MENU_DEPLOY">
+				<Original>Deploy</Original>
+				<Portuguese>Realocar</Portuguese>
+			</Key>
+			<Key ID="STR_REDEPLOY_MENU_DEPLOY_NOT_AVAILABLE">
+				<Original>Not available</Original>
+				<Portuguese>Não disponível</Portuguese>
+			</Key>
+			<Key ID="STR_REDEPLOY_COUNTER">
+				<Original>Redeploy in %1 seconds</Original>
+				<Portuguese>Reposicionamento em %1 segundos</Portuguese>
+			</Key>
+        </Container>
+    </Package>
+</Project>
